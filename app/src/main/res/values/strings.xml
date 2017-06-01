@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">Split Tour</string>
+
+    <!-- Category name for History -->
+    <string name="category_history">History</string>
+
+    <!-- Category name for Restaurants -->
+    <string name="category_restaurants">Restaurants</string>
+
+    <!-- Category name for Events -->
+    <string name="category_events">Events</string>
+
+    <!-- Category name for Nightlife -->
+    <string name="category_nightlife">Nightlife</string>
+
+    <!-- Diocletian's palace name-->
+    <string name="diocletians_palace">Diocletian\'s palace</string>
+
+    <!-- Diocletian's palace description-->
+    <string name="diocletians_palace_description"> is an ancient palace built for the Roman Emperor Diocletian at the turn of the fourth century AD.</string>
+
+    <!--Cathedral of Saint Domnius name-->
+    <string name="st_dominus"> Cathedral of Saint Domnius</string>>
+
+    <!--Cathedral of Saint Domnius description-->
+    <string name="st_dominus_description"> is a complex of a church, formed from an Imperial Roman mausoleum, with a bell tower; strictly the church is dedicated to the Virgin Mary, and the bell tower. </string>
+
+    <!--Peristyle name-->
+    <string name="perisyle">Peristyle</string>
+
+    <!--Peristyle description-->
+    <string name="perisyle_description">is a monumental court that formed the northern access to imperial apartments</string>
+
+    <!--Temple of Jupiter name-->
+    <string name="temple"> Temple of Jupiter </string>
+
+    <!--Temple of Jupiter description-->
+    <string name="temple_description"> is a temple in Split, Croatia dedicated to the Jupiter, Ancient Roman God of sky and thunder and king of the Gods.</string>
+
+    <!--Salona name-->
+    <string name="salona">Salona</string>
+
+    <!--Salona description-->
+    <string name="salona_description">was an ancient city and the capital of the Roman province of Dalmatia. </string>
+
+    <!--Diocletianus Aqueduct name-->
+    <string name="aqueduct">Diocletianus Aqueduct</string>
+
+    <!--Diocletianus Aqueduct-->
+    <string name="aqueduct_description"> is an ancient Roman aqueduct near Split, Croatia constructed during the Roman Empire to supply water to the Palace of Emperor Diocletian.</string>
+    
+    <!--Bajamonti name-->
+    <string name="bajamonti">Bajamonti</string>
+    
+    <!--Bajamonti info-->
+    <string name="bajamonti_info">Trg Republike 1, 21000, Split</string>
+
+    <!--Bokeria name-->
+    <string name="bokeria">Bokeria</string>
+
+    <!--Bokeria info-->
+    <string name="bokeria_info"> Domaldova ul. 8, 21000, Split</string>
+
+    <!--Corto Maltese name-->
+    <string name="corto">Corto Maltese</string>
+
+    <!--Corto Maltese info-->
+    <string name="corto_info">Obrov ul. 7, 21000, Split</string>
+
+    <!--Fife name-->
+    <string name="fife">Fife</string>
+
+    <!--Fife info-->
+    <string name="fife_info">Trumbićeva obala 11, 21000, Split</string>
+
+    <!--Matoni name-->
+    <string name="matoni">Matoni</string>
+
+    <!--Matoni info-->
+    <string name="matoni_info">prilaz braće Kaliterna 6, 21000, Split</string>
+
+    <!--Uje name-->
+    <string name="uje">Uje Oil Bar</string>
+
+    <!--Uje info-->
+    <string name="uje_info">Dominisova ul. 3, 21000, Split</string>
+
+    <!--St. Dominus day-->
+    <string name="st_dominus_day">St. Dominus Day</string>
+
+    <!--St. Dominus day description-->
+    <string name="st_dominus_day_description">The Day of Saint Domnius, Split\'s protector, takes place on the 7th May bringing together around 10 thousand pilgrims, believers and other friends of Split. </string>
+
+    <!--Ultra-->
+    <string name="ultra">Ultra Music Festival</string>
+
+    <!--Ultra description-->
+    <string name="ultra_description"> is an annual outdoor electronic music festival.</string>
+
+    <!--Days of Diocletian-->
+    <string name="days_diocletian">Days of Diocletian</string>
+
+    <!--Days of Diocletian description-->
+    <string name="days_diocletian_description">Days of Diocletian bring Split back in time when the famous Roman emperor Diocletian walked the city.</string>
+
+    <!--Mediterranean Film Festival Split-->
+    <string name="fmfs">Mediterranean Film Festival Split</string>
+
+    <!--Mediterranean Film Festival Split description-->
+    <string name="fmfs_description">confirmed itself as one of the best and most popular cultural manifestations on Adriatic and during last 9 editions was recognized by more than 100.000 visitors.</string>
+
+    <!--Central name-->
+    <string name="central">Central</string>
+
+    <!--Central info-->
+    <string name="central_info">Trg Gaje Bulata 4, 21000, Split</string>
+
+    <!--Hemingway name-->
+    <string name="hemingway">Hemingway</string>
+
+    <!--Hemingway info-->
+    <string name="hemingway_info">Ulica Mediteranskih igara 5, 21000, Split</string>
+
+    <!--Kameleon name-->
+    <string name="kameleon">Kameleon</string>
+
+    <!--Kameleon info-->
+    <string name="kameleon_info">Ul. Petra Zoranića, 21000, Split</string>
+
+    <!--Vanilla name-->
+    <string name="vanilla">Vanilla</string>
+
+    <!--Vanilla info-->
+    <string name="vanilla_info"> Poljudsko šetalište, 21000, Split</string>
+
+
+
+</resources>
