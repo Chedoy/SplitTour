@@ -36,11 +36,6 @@ public class EventsFragment extends Fragment {
         attractions.add(new Attractions(R.string.days_diocletian,R.string.days_diocletian_description,R.drawable.diocletian_day));
         attractions.add(new Attractions(R.string.fmfs,R.string.fmfs_description,R.drawable.fmfs));
 
-
-
-
-
-
         // Create an {@link AttractionsAdapter}, whose data source is a list of {@link Attractions}s. The
         // adapter knows how to create list items for each item in the list.
         AttractionsAdapter adapter = new AttractionsAdapter(getActivity(), attractions, R.color.category_events);

@@ -38,8 +38,6 @@ public class HistoryFragment extends Fragment {
         attractions.add(new Attractions(R.string.salona,R.string.salona_description,R.drawable.salona));
         attractions.add(new Attractions(R.string.aqueduct,R.string.aqueduct_description,R.drawable.aqueduct));
 
-
-
         // Create an {@link AttractionsAdapter}, whose data source is a list of {@link Attractions}. The
         // adapter knows how to create list items for each item in the list.
        AttractionsAdapter adapter = new AttractionsAdapter(getActivity(), attractions, R.color.category_history);

@@ -36,8 +36,6 @@ public class NightlifeFragment extends Fragment {
         attractions.add(new Attractions(R.string.kameleon,R.string.kameleon_info,R.drawable.kameleon));
         attractions.add(new Attractions(R.string.vanilla,R.string.vanilla_info,R.drawable.vanilla));
 
-
-
         // Create an {@link AttractionsAdapter}, whose data source is a list of {@link Attractions}s. The
         // adapter knows how to create list items for each item in the list.
         AttractionsAdapter adapter = new AttractionsAdapter(getActivity(), attractions, R.color.category_nightlife);

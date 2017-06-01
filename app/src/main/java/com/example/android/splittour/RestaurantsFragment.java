@@ -38,11 +38,6 @@ public class RestaurantsFragment extends Fragment {
         attractions.add(new Attractions(R.string.matoni,R.string.matoni_info,R.drawable.matoni));
         attractions.add(new Attractions(R.string.uje,R.string.uje_info,R.drawable.uje));
 
-
-
-
-
-
         // Create an {@link AttractionsAdapter}, whose data source is a list of {@link Attractions}s. The
         // adapter knows how to create list items for each item in the list.
         AttractionsAdapter adapter = new AttractionsAdapter(getActivity(), attractions, R.color.category_restaurants);
